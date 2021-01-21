@@ -1,0 +1,43 @@
+1+1=? A.2 B.3 C.4 D.5
+A
+1+2=? A.2 B.3 C.4 D.5
+B
+1+3=? A.2 B.3 C.4 D.5
+C
+1+4=? A.2 B.3 C.4 D.5
+D
+3-1=? A.2 B.3 C.4 D.5
+A
+2+1=? A.2 B.3 C.4 D.5
+B
+2+2=? A.2 B.3 C.4 D.5
+C
+2+3=? A.2 B.3 C.4 D.5
+D
+End of Multiple Choice
+1+1=______
+2
+1+2=______
+3
+1+3=______
+4
+1+4=______
+5
+An ______ a day, keep doctors away
+apple
+We will, we will ____ you
+rock
+End of Filling Blanks
+2<3?
+T
+2>3?
+F
+1+1=2?
+T
+1+1=3?
+F
+End of True or False
+
+本文件为 AutoExam.py 自动组卷评卷系统的示例题库文件，
+
+使用方法参阅程序使用说明文档。
